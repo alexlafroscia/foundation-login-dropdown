@@ -6,13 +6,15 @@ It tries to provide as much support for Foundation's responsiveness as it can, a
 
 ## Usage
 
-###### 1. Clone the project to install it
+###### 1. Clone the project to download it
 
 ```bash
 git clone git@github.com:alexlafroscia/foundation-login-dropdown.git
 ```
 
-###### 2. Include it in your Sass
+###### 2. Copy the file into your Sass file
+
+###### 3. Include it in your Sass
 
 Import it to the top of your file, after Foundation
 
@@ -21,6 +23,8 @@ Import it to the top of your file, after Foundation
 ```
 
 Done. Easy as pie.
+
+In the future, I plan to make it easier to clone the repo directly into your project so you can easily pull in changes
 
 ## HTML Structure
 
